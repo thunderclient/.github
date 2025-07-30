@@ -1,5 +1,5 @@
 
-![thunder-screenshot-v8 copy](https://github.com/thunderclient/.github-private/assets/8637550/085ece34-e77d-4d9c-b6e0-0aefe53c3fb3)
+<img width="2645" height="1200" alt="330901221-085ece34-e77d-4d9c-b6e0-0aefe53c3fb3" src="https://github.com/user-attachments/assets/fc4e08cb-ec10-4f59-983a-012e7dd2e048" />
 
 ## Welcome to Thunder Client
 
